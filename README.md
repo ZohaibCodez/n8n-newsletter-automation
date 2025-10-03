@@ -1,4 +1,14 @@
 # AI-Powered Newsletter Automation with n8n
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![n8n](https://img.shields.io/badge/n8n-Workflow-FF6D5A?logo=n8n)](https://n8n.io)
+[![Gemini API](https://img.shields.io/badge/Gemini-API-4285F4?logo=google)](https://ai.google.dev/)
+[![Tavily](https://img.shields.io/badge/Tavily-Search-00A67E)](https://tavily.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Made with 🖤](https://img.shields.io/badge/Made%20with-%F0%9F%96%A4-black)](https://github.com/ZohaibCodez)
+![Stars](https://img.shields.io/github/stars/ZohaibCodez/n8n-newsletter-automation?style=social)
+![Forks](https://img.shields.io/github/forks/ZohaibCodez/n8n-newsletter-automation?style=social)
+![Issues](https://img.shields.io/github/issues/ZohaibCodez/n8n-newsletter-automation)
+![Last Commit](https://img.shields.io/github/last-commit/ZohaibCodez/n8n-newsletter-automation)
 
 > A multi-agent workflow that automatically researches, writes, and formats professional newsletters using AI agents orchestrated through n8n.
 
