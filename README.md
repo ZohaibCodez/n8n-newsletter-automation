@@ -61,7 +61,7 @@ Create Gmail Draft
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/n8n-newsletter-automation.git
+   git clone https://github.com/ZohaibCodez/n8n-newsletter-automation.git
    ```
 
 2. **Import workflow into n8n:**
